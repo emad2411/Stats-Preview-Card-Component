@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/emad2411/3-column-preview-card-component)
+- Solution URL:(https://github.com/emad2411/Stats-Preview-Card-Component)
 - Live Site URL:(https://emad2411.github.io/Stats-Preview-Card-Component/)
 
 
